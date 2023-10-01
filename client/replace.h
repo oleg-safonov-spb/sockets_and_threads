@@ -1,0 +1,1 @@
+void replace(char *str);
